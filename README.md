@@ -16,7 +16,7 @@ and delivering the highest possible quality work.
 
 - 👨‍💻 All of my projects are available at [https://pranto-chakraborty.netlify.app/](https://pranto-chakraborty.netlify.app/)
 
-- 💬 Ask me about **ReactJs, NodeJs, JavaScript, Laravel and API development**
+- 💬 Ask me about **ReactJs, NodeJs, ExpressJS, JavaScript, Laravel and API development**
 
 - 📫 You can reach me **chakrabortypranto39@gmail.com**
 
