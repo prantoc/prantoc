@@ -32,7 +32,7 @@ and delivering the highest possible quality work.
 
 <img  align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantoc&theme=darcula&show_icons=true&hide_border=true&layout=compact" />
 
-<img height="50%"  width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=prantoc&theme=darcula&hide_border=true" />
+<img height="200px"  width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=prantoc&theme=darcula&hide_border=true" />
 
 
 
