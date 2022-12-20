@@ -27,9 +27,9 @@ and delivering the highest possible quality work.
 
 ### Numbers
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=prantoc&theme=darcula&show_icons=true&hide_border=true&count_private=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantoc&theme=darcula&show_icons=true&hide_border=true&layout=compact" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prantoc&theme=darcula&hide_border=true" />
+<img align="left" wdith="47%" src="https://github-readme-stats.vercel.app/api?username=prantoc&theme=darcula&show_icons=true&hide_border=true&count_private=true" />
+<img align="right" wdith="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantoc&theme=darcula&show_icons=true&hide_border=true&layout=compact" />
+<img align="center" wdith="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=prantoc&theme=darcula&hide_border=true" />
 
 
 
