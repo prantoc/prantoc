@@ -30,9 +30,11 @@ and delivering the highest possible quality work.
 
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=prantoc&theme=darcula&show_icons=true&hide_border=true&count_private=true" />
 
-<img align="left" width="47%"  src="https://github-readme-streak-stats.herokuapp.com/?user=prantoc&theme=darcula&hide_border=true" />
+<img  align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantoc&theme=darcula&show_icons=true&hide_border=true&layout=compact" />
 
-<img height="50%"  width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantoc&theme=darcula&show_icons=true&hide_border=true&layout=compact" />
+<img height="50%"  width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=prantoc&theme=darcula&hide_border=true" />
+
+
 
 ### Where to find me
 
