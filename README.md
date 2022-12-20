@@ -27,11 +27,11 @@ and delivering the highest possible quality work.
 
 ### Numbers
 
-![prantoc's Stats](https://github-readme-stats.vercel.app/api?username=prantoc&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=prantoc&theme=darcula&show_icons=true&hide_border=true&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantoc&theme=darcula&show_icons=true&hide_border=true&layout=compact" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prantoc&theme=darcula&hide_border=true" />
 
-![prantoc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=prantoc&theme=darcula&hide_border=true)
 
-![prantoc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prantoc&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Where to find me
 
