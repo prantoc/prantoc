@@ -45,7 +45,7 @@ and delivering the highest possible quality work.
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OmgMKl1av4iEBBBzHxZrmwiMk_CEa5ZL/view?usp=sharing](https://drive.google.com/file/d/1OmgMKl1av4iEBBBzHxZrmwiMk_CEa5ZL/view?usp=sharing)
 
-- ⚡ Fun fact **I think I'm fat enough, I love to sing, I love to travel, Learn new technologies, play chess and cricket, listen to music, watching movies and tv series.**
+- ⚡ Fun fact **I love to eat and I think I'm fat enough, love to sing, love to travel, Learn new technologies, love to play chess and cricket, listen to music, watching movies and tv series.**
 
 
 ### Numbers
