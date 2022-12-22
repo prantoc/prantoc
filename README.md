@@ -41,7 +41,7 @@ and delivering the highest possible quality work.
 
 - 💬 Ask me about **ReactJs, NodeJs, ExpressJS, JavaScript, Laravel and API development**
 
-- 📫 You can reach me **chakrabortypranto39@gmail.com**
+- 📫 You can reach me ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(chakrabortypranto39@gmail.com) 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OmgMKl1av4iEBBBzHxZrmwiMk_CEa5ZL/view?usp=sharing](https://drive.google.com/file/d/1OmgMKl1av4iEBBBzHxZrmwiMk_CEa5ZL/view?usp=sharing)
 
