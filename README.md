@@ -28,7 +28,7 @@
 
   
   
-A full-stack developer, who believes in quality work, seeking a position where I can
+A full-stack developer, who believes in quality work, **seeking a position** where I can
 share my knowledge to grow the company and expand my skills. Always prioritizing work and business value
 and delivering the highest possible quality work.
 
