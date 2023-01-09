@@ -51,7 +51,7 @@ and delivering the highest possible quality work.
 ### Numbers
 
 
-<img align="left" width="50%"  src="https://github-readme-stats.vercel.app/api?username=prantoc&theme=darcula&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" width="50%"  src="https://github-readme-stats-gold-phi.vercel.app//api?username=prantoc&theme=darcula&show_icons=true&hide_border=true&count_private=true" />
 
 <img  align="left" width="45%" height="167px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantoc&theme=darcula&show_icons=true&hide_border=true&layout=compact&count_private=true" />
 
