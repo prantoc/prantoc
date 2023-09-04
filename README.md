@@ -33,7 +33,7 @@ share my knowledge to grow the company and expand my skills. Always prioritizing
 and delivering the highest possible quality work.
 
 
-- 🌱 I’m currently learning **A lot of things,because everyday I wake up as a noob**
+- 🌱 I’m currently learning **A lot of things, because I think as a dev every day I wake up as a noob**
 
 - 👯 I’m looking for work or employment **opportunities (remote and relocation)**
 
@@ -45,7 +45,7 @@ and delivering the highest possible quality work.
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OmgMKl1av4iEBBBzHxZrmwiMk_CEa5ZL/view?usp=sharing](https://drive.google.com/file/d/1OmgMKl1av4iEBBBzHxZrmwiMk_CEa5ZL/view?usp=sharing)
 
-- ⚡ Fun fact **I love to eat and I think I'm fat enough, love to sing, love to travel, Learn new technologies, love to play chess and cricket, listen to music, watching movies and tv series.**
+- ⚡ Fun fact **I love to eat and think I'm fat enough, I love to travel, Learn new technologies, play chess and cricket, listen to music, and watch movies and TV series.**
 
 
 ### Numbers
